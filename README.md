@@ -2,6 +2,8 @@
 
 Jiaqi Han, Wenbing Huang, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang
 
+In IEEE Transactions on Neural Networks and Learning Systems, 2023.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hanjq17/DropEdgePlus/blob/main/LICENSE)
 
 [**[Paper]**](https://doi.org/10.1109/TNNLS.2023.3288484)
