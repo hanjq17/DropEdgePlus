@@ -23,7 +23,7 @@ Please check out the Python environment depicted in `requirements.txt`.
 
 ## Data
 
-The semi-supervised setting strictly follows [GCN](https://github.com/tkipf/gcn), and the full-supervised setting follws [DropEdge](https://github.com/DropEdge/DropEdge). The co-author and co-purchase datasets can be downloaded from https://github.com/shchur/gnn-benchmark. 
+The semi-supervised setting strictly follows [GCN](https://github.com/tkipf/gcn), and the full-supervised setting follows [DropEdge](https://github.com/DropEdge/DropEdge). The co-author and co-purchase datasets can be downloaded from https://github.com/shchur/gnn-benchmark. 
 
 
 
